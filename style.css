@@ -6,4 +6,36 @@ body {
 
 .Link {
 	color:#a522a5;
+	font-family:fantasy;
+}
+
+.veg {
+	color:olive;
+	font-size:16pt;
+}
+
+.sidebar {
+	color:black;
+	background-color:lightblue;
+	position: absolute;
+	top: 0px;
+	left:0px;
+	height:100px;
+}
+
+.title {
+	width:100%;
+	height:60px;
+}
+
+.container {
+	position: relative;
+}
+
+.content {
+	position: absolute;
+	top: 0px;
+	left: 300px;
+	width: 65%;
+	height:100%;
 }
